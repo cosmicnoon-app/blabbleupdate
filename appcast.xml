@@ -3,6 +3,14 @@
     <channel>
         <title>Blabble</title>
         <item>
+            <title>1.0</title>
+            <pubDate>Mon, 08 Dec 2025 14:06:20 +0800</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="27695976" type="application/octet-stream" sparkle:edSignature="0UkSkhwVhm74s17LdtPQIl3rGga2LzLyWu3/koNd7tIOPAhrI3r372obo23ffS5rVX1KOY/z1uyYgkJFinEqAw=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Tue, 25 Nov 2025 10:35:36 +0800</pubDate>
             <sparkle:version>0.4</sparkle:version>
