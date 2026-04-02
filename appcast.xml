@@ -3,6 +3,14 @@
     <channel>
         <title>Blabble</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 02 Apr 2026 10:43:41 +0800</pubDate>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="20533426" type="application/octet-stream" sparkle:edSignature="jCOm2/B6gXZw5K5CHL6r7KPrebV09j0K7g6+YaEetERlPaFvpReo78vAQHR0BmEsKxpx91NXlg5eUw1B2bJ1CA=="/>
+        </item>
+        <item>
             <title>2.0</title>
             <pubDate>Thu, 02 Apr 2026 09:45:12 +0800</pubDate>
             <sparkle:version>2.0</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="27695976" type="application/octet-stream" sparkle:edSignature="0UkSkhwVhm74s17LdtPQIl3rGga2LzLyWu3/koNd7tIOPAhrI3r372obo23ffS5rVX1KOY/z1uyYgkJFinEqAw=="/>
-        </item>
-        <item>
-            <title>0.4</title>
-            <pubDate>Tue, 25 Nov 2025 10:35:36 +0800</pubDate>
-            <sparkle:version>0.4</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="27496252" type="application/octet-stream" sparkle:edSignature="mA0+/c2/I/SskoSp/CV95wCk1BgEL58FUDAhrYqTlMoIDnuZmnjHSjXcChNGkcAfKz6jKltY5VW7UtxvO3R9Bw=="/>
         </item>
     </channel>
 </rss>
