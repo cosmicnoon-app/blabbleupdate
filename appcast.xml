@@ -3,28 +3,12 @@
     <channel>
         <title>Blabble</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Thu, 16 Apr 2026 10:43:47 +0800</pubDate>
-            <sparkle:version>2.1</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <title>2.2</title>
+            <pubDate>Tue, 05 May 2026 10:12:04 +0800</pubDate>
+            <sparkle:version>2.2</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="23794557" type="application/octet-stream" sparkle:edSignature="yO3WlTNdViPmo2AVpuSAAs4uOB3GUldzP5FtHUv0/yHeFzBttKmjc2tz1bOFAEiNkP/wORbzQYQGg/3fU0ifDA=="/>
-        </item>
-        <item>
-            <title>2.0.1</title>
-            <pubDate>Thu, 02 Apr 2026 10:43:41 +0800</pubDate>
-            <sparkle:version>2.0.1</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="20533426" type="application/octet-stream" sparkle:edSignature="jCOm2/B6gXZw5K5CHL6r7KPrebV09j0K7g6+YaEetERlPaFvpReo78vAQHR0BmEsKxpx91NXlg5eUw1B2bJ1CA=="/>
-        </item>
-        <item>
-            <title>2.0</title>
-            <pubDate>Thu, 02 Apr 2026 09:45:12 +0800</pubDate>
-            <sparkle:version>2.0</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="22049357" type="application/octet-stream" sparkle:edSignature="XiOslM1idnoGCGQmP2OJr0qhbSMXqvbr6A14vig2OFJ8Qk8t4wW7Ov+n+5zPulCiljk6SzbSM4r836ztOsv7BA=="/>
+            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble.dmg" length="25844133" type="application/octet-stream" sparkle:edSignature="r4JheuuIakdhyzAvtZ1PtpzxFGucmBR09dHbaH21mcY1tfdWuG7CQFYx0aoXPCbO/C5Vb1xIeE9fo2CL5G/WDQ=="/>
         </item>
     </channel>
 </rss>
