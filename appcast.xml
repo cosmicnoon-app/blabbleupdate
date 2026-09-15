@@ -4,14 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Blabble</title>
         <item>
+            <title>2.6</title>
+            <pubDate>Tue, 15 Sep 2026 13:21:57 +0800</pubDate>
+            <sparkle:version>2.6</sparkle:version>
+            <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Improved Apple Intelligence translation error handling and retry behavior.
+Failed translations are no longer saved as completed translations.
+]]></description>
+            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-2.6-2.6.dmg" length="31324472" type="application/octet-stream" sparkle:edSignature="R1RWsq/W2g1DUMLR1WIEn8xDohuocdRGpu0BDO+RERRlfY3HEQDUDXONErNNHYj971dDH8yiLoJ3H2XOfdswCA=="></enclosure>
+        </item>
+        <item>
             <title>2.5</title>
             <pubDate>Fri, 11 Sep 2026 11:49:29 +0800</pubDate>
             <sparkle:version>2.5</sparkle:version>
             <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Improved Apple Intelligence translation error handling and retry behavior.
-Failed translations are no longer saved as completed translations.
-]]></description>
             <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-2.5-2.5.dmg" length="31300711" type="application/octet-stream" sparkle:edSignature="/UUmzPj6FZ+3s6DqaZkt9N0kS4vYiOq1iTBmVC4r6XL91ohu/3cV+wdOsCdNyCIOa5sw9epeCD0v04F0ZaO7Cw=="></enclosure>
         </item>
         <item>
@@ -24,6 +32,6 @@ Failed translations are no longer saved as completed translations.
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9j7HVUiCubaBOu+KaAKsvQhjifRD+BYcTaVvIPjGSwZjJmhpW33Kxf5aNLopYC5chddWArPv3UOZHA8Z6gGoBA==
-length: 1861
+edSignature: yOtAPVW9dKOB7SphgMNdcRmvNEOt6gXF1pVGKiskXnftCfXkFsw40qCnMH00VONAJgbmgNWUXDT+MI3gbRnHBA==
+length: 2458
 -->
