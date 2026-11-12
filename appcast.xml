@@ -4,14 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Blabble</title>
         <item>
+            <title>3.1</title>
+            <pubDate>Thu, 12 Nov 2026 09:33:15 +0800</pubDate>
+            <sparkle:version>3.1</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Improved Apple Intelligence translation error handling and retry behavior.
+Failed translations are no longer saved as completed translations.
+]]></description>
+            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-3.1-3.1.dmg" length="31545341" type="application/octet-stream" sparkle:edSignature="JT7S+KurNnLZywphIVIhildPvDLW+bzXOFa9/1KFX3NMz/AkROxs1t3mFjLJ0pJxSaJp3XAhfqZDf3J4nKC3Bw=="></enclosure>
+        </item>
+        <item>
             <title>3.0</title>
             <pubDate>Wed, 11 Nov 2026 10:53:10 +0800</pubDate>
             <sparkle:version>3.0</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Improved Apple Intelligence translation error handling and retry behavior.
-Failed translations are no longer saved as completed translations.
-]]></description>
             <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-3.0-3.0.dmg" length="31458311" type="application/octet-stream" sparkle:edSignature="UQRgYe0gdGiy/bKi97jz79pVHBX6B0FDhdyWNYnnu36vWBxdrYUX3ntGYCCIrkEQEkjXSE4Jc4eZmMzZjznrDA=="></enclosure>
         </item>
         <item>
@@ -22,16 +30,8 @@ Failed translations are no longer saved as completed translations.
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-2.9-2.9.dmg" length="31381045" type="application/octet-stream" sparkle:edSignature="IpbIyggByotHVJLi3wj38fvothvqGbUn3XirR7Icl3uuSkrNVDRPgd+CK8fhNHAclIfhYd3dbu7g6tFwXMgUBA=="></enclosure>
         </item>
-        <item>
-            <title>2.7</title>
-            <pubDate>Thu, 17 Sep 2026 13:56:47 +0800</pubDate>
-            <sparkle:version>2.7</sparkle:version>
-            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://cosmicnoon-app.github.io/blabbleupdate/Blabble-2.7-2.7.dmg" length="31321785" type="application/octet-stream" sparkle:edSignature="jbWIaC6gMw0MntbB4Ga+ny7Ob7ubFySy3jIh9w4O3lAjyIGhzrjQnqHS1K6l2p5mdNj4kyUHVvwAMxzNMRucAg=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: kdjcCLUIqRzJk8LjmmcvZ5449fQDCShkKlB7gXXKPy+74bQvKYm+VACPSt7+MpPH5f/19QCnd3MFO+s/u8vnDg==
+edSignature: +idq31nEkEt+WJyORrNKhC3GDm8pmsyXgwJdywhco1dqLaE4HW0mw2UcgKUTDNAp8rAamZsgMdhJkmZGRRk2BA==
 length: 2458
 -->
